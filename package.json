@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@nextui-org/react": "^2.4.6",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.45"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.10"
+  }
+}
